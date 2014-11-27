@@ -1,6 +1,4 @@
-Apostrofs
-=========
+Tikai apostrofs
+===============
 
-Klaviatūras izkārtojums, lai varētu Windows vidē klaviatūras latviešu izkārtojumam mēmais taustiņš būtu apostrofs vai tilde.
-
-Kompilētie faili ir pieejami šeit: http://laacz.lv/apostrofs/
+Pielāgots [Apostrofs](http://laacz.lv/apostrofs/) klaviatūras izkārtojums; vienīgais mēmais taustiņš šajā izkārtojumā ir "'" (viena pēdiņa), jo pārējie mēmie taustiņi (tilde, apostrofs un dubultās pēdiņas) noteiktos gadījumos [var būt traucējoši](https://github.com/laacz/apostrofs/issues/2).
